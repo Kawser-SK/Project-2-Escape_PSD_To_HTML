@@ -43,7 +43,7 @@ img{
         START HEAEDR SECTION
  ============================ */
 .header-section{
-      background: linear-gradient(rgb(22 29 24 / 58%), rgb(3 4 4 / 58%)), url(/img/banner.jpg);
+      background: linear-gradient(rgb(22 29 24 / 58%), rgb(3 4 4 / 58%)), url(img/banner.jpg);
       color: #fff;
       height: 90vh;
       background-position: center;
