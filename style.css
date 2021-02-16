@@ -45,7 +45,7 @@ img{
 .header-section{
       background: linear-gradient(rgb(22 29 24 / 58%), rgb(3 4 4 / 58%)), url(img/banner.png);
       color: #fff;
-      height: 90vh;
+      height: 100vh;
       background-position: center;
       background-size: cover;
 }
